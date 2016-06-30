@@ -1,4 +1,4 @@
-/** Main Body Style **/
+Home/** Main Body Style **/
 
 body {
     font-family: 'Raleway', sans-serif;
@@ -154,7 +154,7 @@ fieldset[disabled] .btn-xl.active {
 
 /** Header **/
 header {
-    background-image: url(../images/cover-img/AboutUs-Cover.jpg);
+    background-image: url(../images/cover-img/Home-Cover.jpg);
     background-repeat: none;
     background-attachment: scroll;
     background-position: center center;
